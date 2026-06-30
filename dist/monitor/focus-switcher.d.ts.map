@@ -1,0 +1,1 @@
+{"version":3,"file":"focus-switcher.d.ts","sourceRoot":"","sources":["../../src/monitor/focus-switcher.ts"],"names":[],"mappings":"AAMA;;;GAGG;AACH,qBAAa,aAAa;IAEtB,OAAO,CAAC,QAAQ,CAAC,MAAM;IACvB,OAAO,CAAC,QAAQ,CAAC,OAAO;gBADP,MAAM,GAAE,OAAe,EACvB,OAAO,GAAE,OAAe;IAG3C;;;OAGG;IACH,KAAK,CAAC,SAAS,EAAE,MAAM,GAAG,OAAO;IA2BjC;;OAEG;IACH,gBAAgB,IAAI,MAAM,GAAG,IAAI;CAQlC"}
